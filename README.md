@@ -1,6 +1,6 @@
 # Implementation of Copy & Paste Action in WPF DataGrid
 
-To enable copy and paste functionality in your WPF `DataGrid`, you need to use the `DataGridClipboardBehavior`. Here's how you can implement it:
+To enable copy and paste functionality in your WPF `DataGrid`, you need to use the `DataGridClipboardBehavior`.
 
 ## Usage
 
