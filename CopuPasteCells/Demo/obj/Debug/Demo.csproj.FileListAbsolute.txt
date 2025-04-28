@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Desktop\Riders\copypaste\DataGridWPF_copy_paste_cell\CopuPasteCells\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Riders\copypaste\DataGridWPF_copy_paste_cell\CopuPasteCells\Demo\obj\Debug\MainWindow.g.cs
+C:\Users\admin\OneDrive\Desktop\Riders\copypaste\DataGridWPF_copy_paste_cell\CopuPasteCells\Demo\obj\Debug\App.g.cs
+C:\Users\admin\OneDrive\Desktop\Riders\copypaste\DataGridWPF_copy_paste_cell\CopuPasteCells\Demo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\OneDrive\Desktop\Riders\copypaste\DataGridWPF_copy_paste_cell\CopuPasteCells\Demo\obj\Debug\Demo_MarkupCompile.cache
+C:\Users\admin\OneDrive\Desktop\Riders\copypaste\DataGridWPF_copy_paste_cell\CopuPasteCells\Demo\obj\Debug\Demo_MarkupCompile.lref
+C:\Users\admin\OneDrive\Desktop\Riders\copypaste\DataGridWPF_copy_paste_cell\CopuPasteCells\Demo\obj\Debug\Demo.exe
+C:\Users\admin\OneDrive\Desktop\Riders\copypaste\DataGridWPF_copy_paste_cell\CopuPasteCells\Demo\obj\Debug\Demo.pdb
+C:\Users\admin\OneDrive\Desktop\Riders\copypaste\DataGridWPF_copy_paste_cell\CopuPasteCells\Demo\bin\Debug\Demo.exe.config
+C:\Users\admin\OneDrive\Desktop\Riders\copypaste\DataGridWPF_copy_paste_cell\CopuPasteCells\Demo\bin\Debug\Demo.exe
+C:\Users\admin\OneDrive\Desktop\Riders\copypaste\DataGridWPF_copy_paste_cell\CopuPasteCells\Demo\bin\Debug\Demo.pdb
+C:\Users\admin\OneDrive\Desktop\Riders\copypaste\DataGridWPF_copy_paste_cell\CopuPasteCells\Demo\obj\Debug\MainWindow.baml
+C:\Users\admin\OneDrive\Desktop\Riders\copypaste\DataGridWPF_copy_paste_cell\CopuPasteCells\Demo\obj\Debug\Demo.g.resources
+C:\Users\admin\OneDrive\Desktop\Riders\copypaste\DataGridWPF_copy_paste_cell\CopuPasteCells\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\Riders\copypaste\DataGridWPF_copy_paste_cell\CopuPasteCells\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\Riders\copypaste\DataGridWPF_copy_paste_cell\CopuPasteCells\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
